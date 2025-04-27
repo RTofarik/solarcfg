@@ -1,4 +1,3 @@
-test
-test2
-test3
-test4
+local text1 = "f"
+local text2 = "ff"
+local text3 = "fff"
